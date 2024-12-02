@@ -1,0 +1,529 @@
+   #[1]Next Gen Admit » Feed [2]Next Gen Admit » Comments Feed [3]Next Gen
+   Admit » How to Use the Common Data Set to Build Your College List
+   Comments Feed [4]JSON [5]oEmbed (JSON) [6]oEmbed (XML)
+
+   [7]Skip to content
+
+   [8]Next Gen Admit
+
+     * [9]About
+     * [10]Edit My Essay (BUTTON) Menu Toggle
+          + [11]Edit My Essay
+          + [12]Meet the Editors
+     * [13]College Admissions Programs (BUTTON) Menu Toggle
+          + [14]Admissions Edge: The Ultimate College Essay Course
+          + [15]Savvy Supplementals
+          + [16]1:1 Coaching with Dyllen Nellis
+     * [17]Passion Project Programs (BUTTON) Menu Toggle
+          + [18]Passion to Impact: High School Passion Project Program
+          + [19]High School Research Program
+          + [20]AI Scholars Program
+          + [21]Mobile App Design Program
+     * [22]Free Resources (BUTTON) Menu Toggle
+          + [23]Free Masterclass: The Top School Admissions Formula
+          + [24]AI Passion Project Idea Generator
+          + [25]University Profiles
+     * [26]Blog
+     * [27]Results
+
+   [28]Next Gen Admit
+   (BUTTON) Main Menu
+
+     * [29]About
+     * [30]Edit My Essay (BUTTON) Menu Toggle
+          + [31]Edit My Essay
+          + [32]Meet the Editors
+     * [33]College Admissions Programs (BUTTON) Menu Toggle
+          + [34]Admissions Edge: The Ultimate College Essay Course
+          + [35]Savvy Supplementals
+          + [36]1:1 Coaching with Dyllen Nellis
+     * [37]Passion Project Programs (BUTTON) Menu Toggle
+          + [38]Passion to Impact: High School Passion Project Program
+          + [39]High School Research Program
+          + [40]AI Scholars Program
+          + [41]Mobile App Design Program
+     * [42]Free Resources (BUTTON) Menu Toggle
+          + [43]Free Masterclass: The Top School Admissions Formula
+          + [44]AI Passion Project Idea Generator
+          + [45]University Profiles
+     * [46]Blog
+     * [47]Results
+
+How to Use the Common Data Set to Build Your College List
+
+   You've picked out a few colleges that seem perfect, but how do you
+   really know if they're the right fit? Comparing them can feel
+   overwhelming until you discover the common data set. The Common Data
+   Set (CDS) is a powerful tool that can simplify your college search and
+   help you make informed decisions. In this article, we'll explore what
+   the Common Data Set is, how colleges use it, and most importantly, how
+   you can leverage it to your advantage.
+
+What Is the Common Data Set?
+
+   The Common Data Set is a document containing valuable statistics and
+   information on nearly every 4-year college and university in the US.
+   Created annually by the College Board in collaboration with higher
+   education associations, the CDS covers various aspects of each
+   institution, including admissions, financial aid, student demographics,
+   and academic offerings. Its purpose is to provide transparency and
+   standardization in college data, making it easier for students to
+   compare and evaluate different institutions.
+
+What do colleges cover in the Common Data Set?
+
+   Each college's Common Data Set is a comprehensive document of 30+
+   pages, organized into sections such as general information, enrollment
+   and persistence, admission requirements, financial aid options, student
+   life, and more. This wealth of information can help you gain insights
+   into factors such as average test scores, acceptance rates, financial
+   aid availability, and student demographics, allowing you to make
+   well-informed decisions about which colleges are the best fit for you.
+
+   The CDS aims to provide transparent and comparable information for
+   prospective students. While not always perfect, it can serve as a
+   helpful resource in your college search and application process. Be
+   sure to look at the CDS for any schools you're seriously interested in
+   to make the most informed choice.
+
+List of Common Data Sets for US Schools
+
+     * [48]Boston College: Admission Statistics 2024
+     * [49]Boston University: Admission Statistics 2024
+     * [50]Brandeis: Admission Statistics 2024
+     * [51]Brown University: Admission Statistics 2024
+     * [52]California Institute of Technology: Admission Statistics 2024
+     * [53]Carnegie Mellon: Admission Statistics 2024
+     * [54]Case Western Reserve: Admission Statistics 2024
+     * [55]Columbia University: Admission Statistics 2024
+     * [56]Cornell: Admission Statistics 2024
+     * [57]Dartmouth: Admission Statistics 2024
+     * [58]Duke: Admission Statistics 2024
+     * [59]Emory: Admission Statistics 2024
+     * [60]Florida State: Admission Statistics 2024
+     * [61]Fordham University: Admission Statistics 2024
+     * [62]Georgetown: Admission Statistics 2024
+     * [63]Georgia Institute of Technology: Admission Statistics 2024
+     * [64]Harvard: Admission Statistics 2024
+     * [65]Johns Hopkins: Admission Statistics 2024
+     * [66]Lehigh: Admission Statistics 2024
+     * [67]MIT: Admission Statistics 2024
+     * [68]Michigan State: Admission Statistics 2024
+     * [69]North Carolina State: Admission Statistics 2024
+     * [70]New York University: Admission Statistics 2024
+     * [71]Northeastern: Admission Statistics 2024
+     * [72]Northwestern University: Admission Statistics 2024
+
+     * [73]Notre Dame: Admission Statistics 2024
+     * [74]Ohio State: Admission Statistics 2024
+     * [75]Pepperdine University: Admission Statistics 2024
+     * [76]Princeton: Admission Statistics 2024
+     * [77]Purdue University: Admission Statistics 2024
+     * [78]Rice: Admission Statistics 2024
+     * [79]Rutgers University - New Brunswick: Admission Statistics 2024
+     * [80]Santa Clara University: Admission Statistics 2024
+     * [81]Stanford: Admission Statistics 2024
+     * [82]Stony Brook: Admission Statistics 2024
+     * [83]Texas A&M: Admission Statistics 2024
+     * [84]The George Washington University: Admission Statistics 2024
+     * [85]The Pennsylvania State: Admission Statistics 2024
+     * [86]Tufts University: Admission Statistics 2024
+     * [87]Tulane University: Admission Statistics 2024
+     * [88]UC Berkeley: Admission Statistics 2024
+     * [89]UC Davis: Admission Statistics 2024
+     * [90]UC San Diego: Admission Statistics 2024
+     * [91]UC Santa Barbara: Admission Statistics 2024
+     * [92]UCLA: Admission Statistics 2024
+     * [93]UNC-Chapel Hill: Admission Statistics 2024
+     * [94]University of Chicago: Admission Statistics 2024
+     * [95]University of Connecticut: Admission Statistics 2024
+     * [96]University of Florida: Admission Statistics 2024
+
+     * [97]University of Georgia: Admission Statistics 2024
+     * [98]University of Illinois Urbana-Champaign: Admission Statistics
+       2024
+     * [99]University of Maryland: Admission Statistics 2024
+     * [100]University of Miami: Admission Statistics 2024
+     * [101]University of Michigan: Admission Statistics 2024
+     * [102]University of Minnesota - Twin Cities: Admission Statistics
+       2024
+     * [103]University of Pennsylvania: Admission Statistics 2024
+     * [104]University of Pittsburgh: Admission Statistics 2024
+     * [105]University of Rochester: Admission Statistics 2024
+     * [106]University of Southern California: Admission Statistics 2024
+     * [107]University of Virginia: Admission Statistics 2024
+     * [108]University of Washington: Admission Statistics 2024
+     * [109]University of Wisconsin - Madison: Admission Statistics 2024
+     * [110]UT Austin: Admission Statistics 2024
+     * [111]Vanderbilt: Admission Statistics 2024
+     * [112]Villanova University: Admission Statistics 2024
+     * [113]Virginia Tech: Admission Statistics 2024
+     * [114]Wake Forest: Admission Statistics 2024
+     * [115]Washington University in St. Louis: Admission Statistics 2024
+     * [116]William & Mary: Admission Statistics 2024
+     * [117]Yale: Admission Statistics 2024
+
+What if I have more questions about a school's admissions process?
+
+   Feel free to reach out to the school directly with any specific
+   questions about their admissions process. However, it's advisable to
+   conduct your own research beforehand, as it's not ideal to ask
+   questions that are readily available online. Keep in mind that college
+   admissions counselors are busy individuals and prefer not to be
+   contacted unless you have a specific question that you cannot find the
+   answer to online.
+
+Conclusion
+
+   The Common Data Set is an invaluable resource for researching and
+   comparing colleges. By understanding the data and what it represents,
+   you'll be in a much better position to find schools that are the best
+   fit for your needs and priorities. Best of luck!
+
+   Search ____________________ (BUTTON) Search
+
+Free Masterclass
+
+The Top School Admissions Formula
+
+   (BUTTON) Save my seat!
+
+Table of Contents
+
+More Posts
+
+     * What the Court's Ruling on Affirmative Action Means for Students
+       Applying to University
+     * What Stanford Looks for in Applicants: What You Need to Know to
+       Stand Out
+     * How Stanford is Leading the Way in Increasing Student Diversity
+     * How Race Influences Stanford University Admissions: Everything You
+       Need to Know (2024 Update)
+     * UC Activities and Awards Section: Debunking Myths and
+       Misconceptions
+
+     * UNC-Chapel Hill: Admission Statistics 2024
+     * Duke: Admission Statistics 2024
+     * Ohio State: Admission Statistics 2024
+     * University of Illinois Urbana-Champaign: Admission Statistics 2024
+     * University of Washington: Admission Statistics 2024
+     * University of Connecticut: Admission Statistics 2024
+     * Northwestern University: Admission Statistics 2024
+     * Purdue University: Admission Statistics 2024
+     * North Carolina State: Admission Statistics 2024
+     * Villanova University: Admission Statistics 2024
+     * MIT: Admission Statistics 2024
+     * Georgia Institute of Technology: Admission Statistics 2024
+     * UC Santa Barbara: Admission Statistics 2024
+     * University of Florida: Admission Statistics 2024
+     * Lehigh: Admission Statistics 2024
+     * Virginia Tech: Admission Statistics 2024
+     * Boston University: Admission Statistics 2024
+     * Florida State: Admission Statistics 2024
+     * Rutgers University - New Brunswick: Admission Statistics 2024
+     * Carnegie Mellon: Admission Statistics 2024
+     * Brandeis: Admission Statistics 2024
+     * Boston College: Admission Statistics 2024
+     * Michigan State: Admission Statistics 2024
+     * University of Pittsburgh: Admission Statistics 2024
+     * Wake Forest: Admission Statistics 2024
+     * UC Berkeley: Admission Statistics 2024
+     * University of Michigan: Admission Statistics 2024
+     * UT Austin: Admission Statistics 2024
+     * UCLA: Admission Statistics 2024
+     * Case Western Reserve: Admission Statistics 2024
+     * UC San Diego: Admission Statistics 2024
+     * University of Georgia: Admission Statistics 2024
+     * University of Wisconsin - Madison: Admission Statistics 2024
+     * University of Maryland: Admission Statistics 2024
+     * Vanderbilt: Admission Statistics 2024
+     * The George Washington University: Admission Statistics 2024
+     * Stony Brook: Admission Statistics 2024
+     * New York University: Admission Statistics 2024
+     * The Pennsylvania State: Admission Statistics 2024
+     * Johns Hopkins: Admission Statistics 2024
+     * William & Mary: Admission Statistics 2024
+     * Northeastern: Admission Statistics 2024
+     * Yale: Admission Statistics 2024
+     * UC Davis: Admission Statistics 2024
+     * Tufts University: Admission Statistics 2024
+     * Tulane University: Admission Statistics 2024
+     * Santa Clara University: Admission Statistics 2024
+     * Princeton: Admission Statistics 2024
+     * How to Use the Common Data Set to Build Your College List
+     * Emory: Admission Statistics 2024
+
+Try our FREE AI Passion Project Idea Generator!
+
+   (BUTTON) Save my free seat!
+
+Ready to start?
+
+FREE MASTERCLASS
+
+This 60-minute masterclass is the college admissions playbook you've been
+looking for.
+Learn my 3-Part Framework for building a standout application and earning
+$20,000+ in scholarships!
+
+Related Next Gen Admit Posts
+
+[118]What the Court's Ruling on Affirmative Action Means for Students
+Applying to University
+
+   Discover how the Supreme Court ruling on Affirmative Action reshapes
+   college admissions and learn strategies to craft standout application.
+   [119]Read More »
+
+[120]What Stanford Looks for in Applicants: What You Need to Know to Stand
+Out
+
+   Applying to Stanford? Find out what it takes to get in. Explore their
+   holistic admissions process and the key qualities Stanford values in
+   applicants.
+   [121]Read More »
+
+[122]How Stanford is Leading the Way in Increasing Student Diversity
+
+   Discover how Stanford increases student diversity through outreach
+   programs, financial aid, and inclusion efforts, paving the way for
+   equity in education.
+   [123]Read More »
+
+[124]How Race Influences Stanford University Admissions: Everything You Need
+to Know (2024 Update)
+
+   Learn how Stanford evaluates applications in light of race and
+   diversity for 2024 admissions following the Supreme Court's ruling on
+   affirmative action.
+   [125]Read More »
+
+[126]UC Activities and Awards Section: Debunking Myths and Misconceptions
+
+   Break free from UC application myths and misconceptions! Learn the
+   truth about what UC values, and create a stronger, more authentic
+   application.
+   [127]Read More »
+
+[128]Avoid These 5 Mistakes in Your UC Application: Activities & Awards
+Section
+
+   Avoid common mistakes in the UC application Activities and Awards
+   section. Learn how to highlight your achievements to boost your college
+   admission chances.
+   [129]Read More »
+
+     * [130]About
+     * [131]Edit My Essay
+     * [132]College Admissions Programs
+     * [133]Passion Project Programs
+     * [134]Free Resources
+     * [135]Blog
+     * [136]Results
+
+   Copyright © 2024 Next Gen Admit
+
+References
+
+   Visible links:
+   1. https://nextgenadmit.com/feed/
+   2. https://nextgenadmit.com/comments/feed/
+   3. https://nextgenadmit.com/2024/06/13/how-to-use-the-common-data-set-to-build-your-college-list/feed/
+   4. https://nextgenadmit.com/wp-json/wp/v2/posts/12654
+   5. https://nextgenadmit.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnextgenadmit.com%2F2024%2F06%2F13%2Fhow-to-use-the-common-data-set-to-build-your-college-list%2F
+   6. https://nextgenadmit.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnextgenadmit.com%2F2024%2F06%2F13%2Fhow-to-use-the-common-data-set-to-build-your-college-list%2F&format=xml
+   7. https://nextgenadmit.com/2024/06/13/how-to-use-the-common-data-set-to-build-your-college-list/#content
+   8. https://nextgenadmit.com/
+   9. https://nextgenadmit.com/#about
+  10. https://nextgenadmit.com/editing/
+  11. https://nextgenadmit.com/editing/
+  12. https://nextgenadmit.com/team/
+  13. https://nextgenadmit.com/course/
+  14. https://nextgenadmit.com/course/
+  15. https://nextgenadmit.com/savvy/
+  16. https://nextgenadmit.com/coaching/
+  17. https://nextgenadmit.com/research/
+  18. https://nextgenadmit.com/passion-to-impact/
+  19. https://nextgenadmit.com/research/
+  20. https://nextgenadmit.com/ai-scholars/
+  21. https://www.avocademy.com/next-gen-admit
+  22. https://nextgenadmit.com/masterclass/
+  23. https://nextgenadmit.com/masterclass/
+  24. https://nextgenadmit.com/passion-project/
+  25. https://nextgenadmit.com/category/university-profiles/
+  26. https://nextgenadmit.com/blog/
+  27. https://nextgenadmit.com/results/
+  28. https://nextgenadmit.com/
+  29. https://nextgenadmit.com/#about
+  30. https://nextgenadmit.com/editing/
+  31. https://nextgenadmit.com/editing/
+  32. https://nextgenadmit.com/team/
+  33. https://nextgenadmit.com/course/
+  34. https://nextgenadmit.com/course/
+  35. https://nextgenadmit.com/savvy/
+  36. https://nextgenadmit.com/coaching/
+  37. https://nextgenadmit.com/research/
+  38. https://nextgenadmit.com/passion-to-impact/
+  39. https://nextgenadmit.com/research/
+  40. https://nextgenadmit.com/ai-scholars/
+  41. https://www.avocademy.com/next-gen-admit
+  42. https://nextgenadmit.com/masterclass/
+  43. https://nextgenadmit.com/masterclass/
+  44. https://nextgenadmit.com/passion-project/
+  45. https://nextgenadmit.com/category/university-profiles/
+  46. https://nextgenadmit.com/blog/
+  47. https://nextgenadmit.com/results/
+  48. https://nextgenadmit.com/2024/05/25/boston-college-admission-statistics-2024/
+  49. https://nextgenadmit.com/2024/05/29/boston-university-admission-statistics-2024/
+  50. https://nextgenadmit.com/2024/06/05/brandeis-admission-statistics-2024/
+  51. https://nextgenadmit.com/2024/05/17/brown-university-admission-statistics-2024/
+  52. https://nextgenadmit.com/2024/05/16/california-institute-of-technology-admission-statistics-2024/
+  53. https://nextgenadmit.com/2024/05/23/carnegie-mellon-admission-statistics-2024/
+  54. https://nextgenadmit.com/2024/06/01/case-western-reserve-admission-statistics-2024/
+  55. https://nextgenadmit.com/2024/05/18/columbia-university-admission-statistics-2024/
+  56. https://nextgenadmit.com/2024/05/18/cornell-admission-statistics-2024/
+  57. https://nextgenadmit.com/2024/05/21/dartmouth-admission-statistics-2024/
+  58. https://nextgenadmit.com/2024/05/16/duke-admission-statistics-2024/
+  59. https://nextgenadmit.com/2024/05/23/emory-admission-statistics-2024/
+  60. https://nextgenadmit.com/2024/06/01/florida-state-admission-statistics-2024/
+  61. https://nextgenadmit.com/2024/06/07/fordham-university-admission-statistics-2024/
+  62. https://nextgenadmit.com/2024/05/22/georgetown-admission-statistics-2024/
+  63. https://nextgenadmit.com/2024/05/24/georgia-institute-of-technology-admission-statistics-2024/
+  64. https://nextgenadmit.com/2024/05/15/harvard-admission-statistics-2024/
+  65. https://nextgenadmit.com/2024/05/17/johns-hopkins-admission-statistics-2024/
+  66. https://nextgenadmit.com/2024/05/30/lehigh-admission-statistics-2024/
+  67. https://nextgenadmit.com/2024/05/16/mit-admission-statistics-2024/
+  68. https://nextgenadmit.com/2024/06/05/michigan-state-admission-statistics-2024/
+  69. https://nextgenadmit.com/2024/06/05/north-carolina-state-admission-statistics-2024/
+  70. https://nextgenadmit.com/2024/05/24/new-york-university-admission-statistics-2024/
+  71. https://nextgenadmit.com/2024/06/04/northeastern-admission-statistics-2024/
+  72. https://nextgenadmit.com/2024/05/17/northwestern-university-admission-statistics-2024/
+  73. https://nextgenadmit.com/2024/05/22/notre-dame-admission-statistics-2024/
+  74. https://nextgenadmit.com/2024/05/29/ohio-state-admission-statistics-2024/
+  75. https://nextgenadmit.com/2024/06/06/pepperdine-university-admission-statistics-2024/
+  76. https://nextgenadmit.com/2024/05/16/princeton-admission-statistics-2024/
+  77. https://nextgenadmit.com/2024/05/30/purdue-university-admission-statistics-2024/
+  78. https://nextgenadmit.com/2024/05/21/rice-admission-statistics-2024/
+  79. https://nextgenadmit.com/2024/05/25/rutgers-university-new-brunswick-admission-statistics-2024/
+  80. https://nextgenadmit.com/2024/06/06/santa-clara-university-admission-statistics-2024/
+  81. https://nextgenadmit.com/2024/05/14/stanford-admission-statistics-2024/
+  82. https://nextgenadmit.com/2024/06/04/stony-brook-admission-statistics-2024/
+  83. https://nextgenadmit.com/2024/05/30/texas-am-admission-statistics-2024/
+  84. https://nextgenadmit.com/2024/06/07/the-george-washington-university-admission-statistics-2024/
+  85. https://nextgenadmit.com/2024/06/06/the-pennsylvania-state-admission-statistics-2024/
+  86. https://nextgenadmit.com/2024/05/25/tufts-university-admission-statistics-2024/
+  87. https://nextgenadmit.com/2024/06/06/tulane-university-admission-statistics-2024/
+  88. https://nextgenadmit.com/2024/05/21/uc-berkeley-admission-statistics-2024/
+  89. https://nextgenadmit.com/2024/05/23/uc-davis-admission-statistics-2024/
+  90. https://nextgenadmit.com/2024/05/23/uc-san-diego-admission-statistics-2024/
+  91. https://nextgenadmit.com/2024/05/25/uc-santa-barbara-admission-statistics-2024/
+  92. https://nextgenadmit.com/2024/05/21/ucla-admission-statistics-2024/
+  93. https://nextgenadmit.com/2024/05/22/unc-chapel-hill-admission-statistics-2024/
+  94. https://nextgenadmit.com/2024/05/21/university-of-chicago-admission-statistics-2024/
+  95. https://nextgenadmit.com/2024/06/04/university-of-connecticut-admission-statistics-2024/
+  96. https://nextgenadmit.com/2024/05/24/university-of-florida-admission-statistics-2024/
+  97. https://nextgenadmit.com/2024/05/30/university-of-georgia-admission-statistics-2024/
+  98. https://nextgenadmit.com/2024/05/25/university-of-illinois-urbana-champaign-admission-statistics-2024/
+  99. https://nextgenadmit.com/2024/05/30/university-of-maryland-admission-statistics-2024/
+ 100. https://nextgenadmit.com/2024/06/06/university-of-miami-admission-statistics-2024/
+ 101. https://nextgenadmit.com/2024/05/22/university-of-michigan-admission-statistics-2024/
+ 102. https://nextgenadmit.com/2024/06/04/university-of-minnesota-twin-cities-admission-statistics-2024/
+ 103. https://nextgenadmit.com/2024/05/15/university-of-pennsylvania-admission-statistics-2024/
+ 104. https://nextgenadmit.com/2024/06/06/university-of-pittsburgh-admission-statistics-2024/
+ 105. https://nextgenadmit.com/2024/06/01/university-of-rochester-admission-statistics-2024/
+ 106. https://nextgenadmit.com/2024/05/24/university-of-southern-california-admission-statistics-2024/
+ 107. https://nextgenadmit.com/2024/05/23/university-of-virginia-admission-statistics-2024/
+ 108. https://nextgenadmit.com/2024/05/29/university-of-washington-admission-statistics-2024/
+ 109. https://nextgenadmit.com/2024/05/25/university-of-wisconsin-madison-admission-statistics-2024/
+ 110. https://nextgenadmit.com/2024/05/24/ut-austin-admission-statistics-2024/
+ 111. https://nextgenadmit.com/2024/05/22/vanderbilt-admission-statistics-2024/
+ 112. https://nextgenadmit.com/2024/06/06/villanova-university-admission-statistics-2024/
+ 113. https://nextgenadmit.com/2024/06/01/virginia-tech-admission-statistics-2024/
+ 114. https://nextgenadmit.com/2024/06/01/wake-forest-admission-statistics-2024/
+ 115. https://nextgenadmit.com/2024/05/23/washington-university-in-st-louis-admission-statistics-2024/
+ 116. https://nextgenadmit.com/2024/06/04/william-mary-admission-statistics-2024/
+ 117. https://nextgenadmit.com/2024/05/16/yale-admission-statistics-2024/
+ 118. https://nextgenadmit.com/2024/11/28/what-the-courts-ruling-on-affirmative-action-means-for-students-applying-to-university/
+ 119. https://nextgenadmit.com/2024/11/28/what-the-courts-ruling-on-affirmative-action-means-for-students-applying-to-university/
+ 120. https://nextgenadmit.com/2024/11/28/what-stanford-looks-for-in-applicants-what-you-need-to-know-to-stand-out/
+ 121. https://nextgenadmit.com/2024/11/28/what-stanford-looks-for-in-applicants-what-you-need-to-know-to-stand-out/
+ 122. https://nextgenadmit.com/2024/11/27/how-stanford-is-leading-the-way-in-increasing-student-diversity/
+ 123. https://nextgenadmit.com/2024/11/27/how-stanford-is-leading-the-way-in-increasing-student-diversity/
+ 124. https://nextgenadmit.com/2024/11/26/how-race-influences-stanford-university-admissions-everything-you-need-to-know-2024-update/
+ 125. https://nextgenadmit.com/2024/11/26/how-race-influences-stanford-university-admissions-everything-you-need-to-know-2024-update/
+ 126. https://nextgenadmit.com/2024/11/13/uc-activities-and-awards-section-debunking-myths-and-misconceptions/
+ 127. https://nextgenadmit.com/2024/11/13/uc-activities-and-awards-section-debunking-myths-and-misconceptions/
+ 128. https://nextgenadmit.com/2024/11/13/avoid-these-5-mistakes-in-your-uc-application-activities-awards-section/
+ 129. https://nextgenadmit.com/2024/11/13/avoid-these-5-mistakes-in-your-uc-application-activities-awards-section/
+ 130. https://nextgenadmit.com/#about
+ 131. https://nextgenadmit.com/editing/
+ 132. https://nextgenadmit.com/course/
+ 133. https://nextgenadmit.com/research/
+ 134. https://nextgenadmit.com/masterclass/
+ 135. https://nextgenadmit.com/blog/
+ 136. https://nextgenadmit.com/results/
+
+   Hidden links:
+ 138. https://nextgenadmit.com/2024/11/28/what-the-courts-ruling-on-affirmative-action-means-for-students-applying-to-university/
+ 139. https://nextgenadmit.com/2024/11/28/what-stanford-looks-for-in-applicants-what-you-need-to-know-to-stand-out/
+ 140. https://nextgenadmit.com/2024/11/27/how-stanford-is-leading-the-way-in-increasing-student-diversity/
+ 141. https://nextgenadmit.com/2024/11/26/how-race-influences-stanford-university-admissions-everything-you-need-to-know-2024-update/
+ 142. https://nextgenadmit.com/2024/11/13/uc-activities-and-awards-section-debunking-myths-and-misconceptions/
+ 143. https://nextgenadmit.com/2024/05/22/unc-chapel-hill-admission-statistics-2024/
+ 144. https://nextgenadmit.com/2024/05/16/duke-admission-statistics-2024/
+ 145. https://nextgenadmit.com/2024/05/29/ohio-state-admission-statistics-2024/
+ 146. https://nextgenadmit.com/2024/05/25/university-of-illinois-urbana-champaign-admission-statistics-2024/
+ 147. https://nextgenadmit.com/2024/05/29/university-of-washington-admission-statistics-2024/
+ 148. https://nextgenadmit.com/2024/06/04/university-of-connecticut-admission-statistics-2024/
+ 149. https://nextgenadmit.com/2024/05/17/northwestern-university-admission-statistics-2024/
+ 150. https://nextgenadmit.com/2024/05/30/purdue-university-admission-statistics-2024/
+ 151. https://nextgenadmit.com/2024/06/05/north-carolina-state-admission-statistics-2024/
+ 152. https://nextgenadmit.com/2024/06/06/villanova-university-admission-statistics-2024/
+ 153. https://nextgenadmit.com/2024/05/16/mit-admission-statistics-2024/
+ 154. https://nextgenadmit.com/2024/05/24/georgia-institute-of-technology-admission-statistics-2024/
+ 155. https://nextgenadmit.com/2024/05/25/uc-santa-barbara-admission-statistics-2024/
+ 156. https://nextgenadmit.com/2024/05/24/university-of-florida-admission-statistics-2024/
+ 157. https://nextgenadmit.com/2024/05/30/lehigh-admission-statistics-2024/
+ 158. https://nextgenadmit.com/2024/06/01/virginia-tech-admission-statistics-2024/
+ 159. https://nextgenadmit.com/2024/05/29/boston-university-admission-statistics-2024/
+ 160. https://nextgenadmit.com/2024/06/01/florida-state-admission-statistics-2024/
+ 161. https://nextgenadmit.com/2024/05/25/rutgers-university-new-brunswick-admission-statistics-2024/
+ 162. https://nextgenadmit.com/2024/05/23/carnegie-mellon-admission-statistics-2024/
+ 163. https://nextgenadmit.com/2024/06/05/brandeis-admission-statistics-2024/
+ 164. https://nextgenadmit.com/2024/05/25/boston-college-admission-statistics-2024/
+ 165. https://nextgenadmit.com/2024/06/05/michigan-state-admission-statistics-2024/
+ 166. https://nextgenadmit.com/2024/06/06/university-of-pittsburgh-admission-statistics-2024/
+ 167. https://nextgenadmit.com/2024/06/01/wake-forest-admission-statistics-2024/
+ 168. https://nextgenadmit.com/2024/05/21/uc-berkeley-admission-statistics-2024/
+ 169. https://nextgenadmit.com/2024/05/22/university-of-michigan-admission-statistics-2024/
+ 170. https://nextgenadmit.com/2024/05/24/ut-austin-admission-statistics-2024/
+ 171. https://nextgenadmit.com/2024/05/21/ucla-admission-statistics-2024/
+ 172. https://nextgenadmit.com/2024/06/01/case-western-reserve-admission-statistics-2024/
+ 173. https://nextgenadmit.com/2024/05/23/uc-san-diego-admission-statistics-2024/
+ 174. https://nextgenadmit.com/2024/05/30/university-of-georgia-admission-statistics-2024/
+ 175. https://nextgenadmit.com/2024/05/25/university-of-wisconsin-madison-admission-statistics-2024/
+ 176. https://nextgenadmit.com/2024/05/30/university-of-maryland-admission-statistics-2024/
+ 177. https://nextgenadmit.com/2024/05/22/vanderbilt-admission-statistics-2024/
+ 178. https://nextgenadmit.com/2024/06/07/the-george-washington-university-admission-statistics-2024/
+ 179. https://nextgenadmit.com/2024/06/04/stony-brook-admission-statistics-2024/
+ 180. https://nextgenadmit.com/2024/05/24/new-york-university-admission-statistics-2024/
+ 181. https://nextgenadmit.com/2024/06/06/the-pennsylvania-state-admission-statistics-2024/
+ 182. https://nextgenadmit.com/2024/05/17/johns-hopkins-admission-statistics-2024/
+ 183. https://nextgenadmit.com/2024/06/04/william-mary-admission-statistics-2024/
+ 184. https://nextgenadmit.com/2024/06/04/northeastern-admission-statistics-2024/
+ 185. https://nextgenadmit.com/2024/05/16/yale-admission-statistics-2024/
+ 186. https://nextgenadmit.com/2024/05/23/uc-davis-admission-statistics-2024/
+ 187. https://nextgenadmit.com/2024/05/25/tufts-university-admission-statistics-2024/
+ 188. https://nextgenadmit.com/2024/06/06/tulane-university-admission-statistics-2024/
+ 189. https://nextgenadmit.com/2024/06/06/santa-clara-university-admission-statistics-2024/
+ 190. https://nextgenadmit.com/2024/05/16/princeton-admission-statistics-2024/
+ 191. https://nextgenadmit.com/2024/06/13/how-to-use-the-common-data-set-to-build-your-college-list/
+ 192. https://nextgenadmit.com/2024/05/23/emory-admission-statistics-2024/
+ 193. https://nextgenadmit.com/2024/11/28/what-the-courts-ruling-on-affirmative-action-means-for-students-applying-to-university/
+ 194. https://nextgenadmit.com/2024/11/28/what-stanford-looks-for-in-applicants-what-you-need-to-know-to-stand-out/
+ 195. https://nextgenadmit.com/2024/11/27/how-stanford-is-leading-the-way-in-increasing-student-diversity/
+ 196. https://nextgenadmit.com/2024/11/26/how-race-influences-stanford-university-admissions-everything-you-need-to-know-2024-update/
+ 197. https://nextgenadmit.com/2024/11/13/uc-activities-and-awards-section-debunking-myths-and-misconceptions/
+ 198. https://nextgenadmit.com/2024/11/13/avoid-these-5-mistakes-in-your-uc-application-activities-awards-section/
+ 199. https://www.youtube.com/@DyllenNellis/
+ 200. https://instagram.com/nextgenadmit
