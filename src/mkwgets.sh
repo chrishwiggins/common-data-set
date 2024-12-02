@@ -1,0 +1,1 @@
+cat ../aux/*.urls | awk '{print "wget --tries=3 --no-parent --convert-links --page-requisites --continue -e robots=off -U mozilla -m --wait=5 --random-wait --no-check-certificate -P ../out \""$0"\""}' > wgets.sh
